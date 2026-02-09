@@ -1,8 +1,8 @@
 # Aula 01 — Apresentação da Disciplina e Contextualização  
 **Disciplina:** Integração Vertical e Horizontal  
-**Curso:** [Nome do Curso]  
+**Curso:** Analise e Desenvolvimento de Sistemas
 **Semestre:** [Ex.: 2026/1]  
-**Professor:** [Seu nome]
+
 
 ---
 
