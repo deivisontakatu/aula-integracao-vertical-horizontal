@@ -1,9 +1,5 @@
 # 📘 Aula 05 — Pirâmide da Automação na Integração Vertical
 
-**Disciplina:** Integração Vertical e Horizontal  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Semestre:** 2026/1  
-
 ---
 
 ## 🏗️ 1. Pirâmide da Automação

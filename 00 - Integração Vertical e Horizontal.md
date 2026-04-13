@@ -1,12 +1,5 @@
 # Integração Vertical e Horizontal
 
-## 📌 Identificação da Disciplina
-- **Nome:** Integração Vertical e Horizontal  
-- **Perfil:** Módulo Específico – Função 3  
-- **Carga Horária Total:** 66h40  
-- **Hora-aula:** 50 minutos  
-- **Modalidade:** Síncrona, Assíncrona e Presencial  
-
 ---
 
 ## 🧾 Descrição da Disciplina
