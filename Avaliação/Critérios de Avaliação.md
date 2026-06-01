@@ -25,6 +25,25 @@ O repositório deverá conter, obrigatoriamente:
 
 ---
 
+# Atividades Desenvolvidas na Disciplina
+
+As seguintes atividades desenvolvidas ao longo do semestre deverão estar documentadas e organizadas no repositório GitHub:
+
+| Aula    | Tema                                             | Atividade Resumida                                                                             |
+| ------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Aula 01 | Apresentação da Disciplina e Contextualização    | Criar repositório GitHub da disciplina com resumo em Markdown da Aula 01                       |
+| Aula 01 | Apresentação da Disciplina e Contextualização    | Elaborar relatório técnico em PDF sobre integração vertical e horizontal em empresa industrial |
+| Aula 02 | Integração Vertical e Horizontal nas Empresas    | Analisar estudos de caso sobre integração empresarial e impactos estratégicos                  |
+| Aula 02 | Integração Vertical e Horizontal nas Empresas    | Elaborar planejamento estratégico com integração vertical e horizontal                         |
+| Aula 03 | Fundamentos de Redes Industriais                 | Criar plano orçamentário para implantação de rede industrial                                   |
+| Aula 03 | Fundamentos de Redes Industriais                 | Pesquisar equipamentos, fornecedores, custos e especificações técnicas                         |
+| Aula 03 | Fundamentos de Redes Industriais                 | Desenvolver análise de viabilidade técnica e econômica                                         |
+| Aula 03 | Fundamentos de Redes Industriais                 | Elaborar diagrama da arquitetura da rede industrial                                            |
+| Aula 04 | Sistemas Digitais de Controle Distribuído (SDCD) | Analisar aplicação de SDCD no projeto integrador usando ESP32, MQTT, servidor e dashboard      |
+| Aula 07 | MES (Manufacturing Execution System)             | Analisar artigos sobre MES e relacionar ao projeto PII3 e Indústria 4.0                        |
+
+---
+
 # Requisitos Obrigatórios
 
 ## 1. Repositório Público
