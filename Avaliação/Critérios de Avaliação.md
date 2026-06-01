@@ -1,77 +1,125 @@
-# 📊 Critérios de Avaliação — Integração Vertical e Horizontal
+# Entregável — Repositório GitHub da Disciplina
 
-## 🎯 Foco da Avaliação
+## Objetivo
 
-A disciplina de **Integração Vertical e Horizontal (IVH)** avaliará, em **forma de apresentação**, a capacidade do grupo de estruturar soluções integradas no contexto industrial, conectando tecnologias, processos e áreas organizacionais.
+Ao longo do semestre, cada aluno manteve um repositório no GitHub destinado ao armazenamento e organização dos conteúdos desenvolvidos na disciplina de **Integração Vertical e Horizontal**.
 
-A análise considera, durante a apresentação, a evolução técnica do projeto, a interoperabilidade entre camadas do sistema, a integração entre setores estratégicos e operacionais e a clareza na comunicação das propostas.
-
----
-
-# 📘 Rubrica Analítica
-
-| Critério                                                   | Excelente (100%)                                                                      | Satisfatório (50%)                                                  | Insuficiente (0%)                                                  |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **1. (Peso 1) Clareza do Problema e Objetivo da Solução**  | Problema, contexto e objetivo apresentados com clareza e forte conexão com a demanda. | Problema e objetivo apresentados parcialmente, com conexão básica.  | Explicação confusa, incompleta ou sem relação clara com a demanda. |
-| **2. (Peso 2) Evolução Técnica do Projeto**                | Evidências claras de avanço; MVP funcional e consistente.                             | Houve evolução parcial, com algumas funcionalidades demonstradas.   | Pouco ou nenhum avanço em relação à proposta inicial.              |
-| **3. (Peso 1) Implementação do MQTT / IoT**                | Comunicação MQTT funcional, explicada e integrada ao projeto.                         | Conceito apresentado com funcionamento parcial ou pouca integração. | Apenas citado ou sem evidência funcional.                          |
-| **4. (Peso 1) API / Backend**                              | API estruturada, endpoints claros e modelo de dados coerente.                         | Estrutura básica apresentada, com limitações técnicas.              | Solução superficial, inconsistente ou inexistente.                 |
-| **5. (Peso 1) Interface Inicial / UX**                     | Interfaces claras, funcionais e adequadas ao contexto industrial.                     | Interface básica, compreensível, com limitações de usabilidade.     | Interface confusa, incompleta ou ausente.                          |
-| **6. (Peso 1) Arquitetura em Nuvem**                       | Estrutura cloud bem definida e integrada ao sistema.                                  | Ideia básica de nuvem apresentada, sem aprofundamento.              | Explicação incoerente, superficial ou ausente.                     |
-| **7. (Peso 2) Integração Interdisciplinar**                | Excelente conexão entre áreas técnicas e organizacionais, com trabalho integrado.     | Integração parcial entre áreas, com colaboração limitada.           | Áreas isoladas, sem evidência de integração.                       |
-| **8. (Peso 0,5) Aplicação do Scrum / Organização do Time** | Backlog, board, papéis e sprint claramente demonstrados.                              | Uso básico do Scrum e organização parcial.                          | Metodologia pouco aplicada ou desorganização evidente.             |
-| **9. (Peso 0,5) Qualidade da Apresentação**                | Slides organizados, comunicação clara e domínio do conteúdo.                          | Apresentação adequada, com pequenas falhas de clareza ou tempo.     | Apresentação confusa, leitura excessiva ou despreparo.             |
+O repositório serve como um ambiente centralizado para acompanhamento da evolução das atividades, materiais estudados e entregas produzidas durante o semestre.
 
 ---
 
-# 🧮 Cálculo da Nota
+# Estrutura Esperada do Repositório
 
-* **Excelente = 100% do peso**
-* **Satisfatório = 50% do peso**
-* **Insuficiente = 0% do peso**
+O repositório deverá conter, obrigatoriamente:
 
-### Total de Pesos: **10,0**
-
-### Fórmula:
-
-**Nota Final = Soma dos Pontos Obtidos**
+* Slides das aulas;
+* Resumos e anotações;
+* Atividades desenvolvidas;
+* Relatórios técnicos;
+* Diagramas e imagens;
+* Referências utilizadas;
+* Artigos e materiais complementares;
+* Arquivos do Projeto Integrador;
+* Documentações em Markdown (`.md`);
+* Demais materiais produzidos na disciplina.
 
 ---
 
-# 📝 Orientações aos Alunos
+# Requisitos Obrigatórios
 
-## Integração Vertical
+## 1. Repositório Público
 
-Demonstrar como os dados percorrem os níveis operacionais e gerenciais da organização.
+O repositório deverá permanecer público durante todo o semestre para acompanhamento das atividades e avaliações.
 
-Sugestões:
+---
 
-* Sensores e coleta de dados
-* Supervisão e monitoramento
-* Gestão operacional
-* Apoio à decisão
-* Visibilidade em tempo real
+## 2. Organização e Atualização
 
-## Integração Horizontal
+O estudante deverá manter o repositório atualizado continuamente, organizando os materiais por aulas, atividades e conteúdos relacionados.
 
-Demonstrar como diferentes setores compartilham informações e atuam de forma coordenada.
+---
 
-Sugestões:
+## 3. Envio
 
-* Produção e manutenção
-* Logística e estoque
-* TI e gestão
-* Comunicação entre áreas
-* Processos integrados
+- O envio do link do repositório deverá ser realizado pelo formulário: https://forms.gle/GyEM2nodQwHuSUba9
+- É responsabilidade do estudante alterar a URL em caso de alteração no Github.
 
-## Visão Interdisciplinar
+---
 
-Evidenciar como as diferentes disciplinas contribuíram para uma solução única e conectada.
+# Critérios de Avaliação
 
-Sugestões:
+A composição da média final da disciplina será realizada conforme os seguintes pesos:
 
-* IoT + Backend + Mobile + Cloud
-* UX industrial
-* Metodologia ágil
-* Colaboração entre integrantes
-* Valor gerado ao negócio
+| Avaliação             | Peso (%) |
+| --------------------- | -------: |
+| Avaliação Integradora |      20% |
+| Autoavaliação         |      10% |
+| Projeto Integrador    |      35% |
+| Prova                 |    17,5% |
+| GitHub                |    8,75% |
+| Portal Online         |    8,75% |
+
+---
+
+# Composição da Nota Final
+
+```text
+MF = ((Avaliação Integradora × 20)
+    + (Autoavaliação × 10)
+    + (Projeto Integrador × 35)
+    + (Prova × 17,5)
+    + (GitHub × 8,75)
+    + (Portal Online × 8,75)) / 100
+```
+
+---
+
+# Explicação das Avaliações
+
+## Prova — 17,5%
+
+A avaliação da prova será realizada por meio da:
+
+* Apresentação do MVC do PII3;
+* Demonstração do funcionamento da solução;
+* Explicação da arquitetura e integração do projeto;
+* Participação e domínio técnico do grupo durante a apresentação.
+
+---
+
+## GitHub — 8,75%
+
+A nota do GitHub será atribuída considerando:
+
+* Organização do repositório;
+* Atualização contínua;
+* Clareza da documentação;
+* Estruturação das atividades;
+* Inclusão de slides, referências, materiais complementares e entregas;
+* Qualidade técnica dos arquivos disponibilizados.
+
+---
+
+## Portal Online — 8,75%
+
+A nota referente ao Portal Online será composta pelas:
+
+* Atividades realizadas no portal EAD;
+* Participação nas atividades propostas;
+* Entregas e interações solicitadas durante o semestre.
+
+---
+
+# Considerações Finais
+
+O repositório GitHub representa não apenas uma forma de entrega das atividades, mas também um ambiente de construção contínua do conhecimento ao longo da disciplina.
+
+A organização adequada dos materiais facilitará:
+
+* o desenvolvimento do Projeto Integrador;
+* a produção do artigo científico;
+* futuras apresentações;
+* submissões acadêmicas;
+* continuidade do trabalho nos próximos semestres.
+
+O objetivo é estruturar um ambiente técnico e acadêmico que permita a evolução contínua dos projetos desenvolvidos durante a disciplina.
